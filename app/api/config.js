@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://localhost:4000'
+export const BASE_URL = 'http://localhost:3001'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
