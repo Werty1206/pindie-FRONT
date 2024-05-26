@@ -1,6 +1,6 @@
 // Мы используем домен бэкенда, который создали для этого урока,
 // а тебе нужно будет указать свой
-export const BASE_URL = 'http://localhost:3001/api'
+export const BASE_URL = 'https://mishanya.backend.nomoredomainswork.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
